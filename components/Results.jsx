@@ -16,4 +16,6 @@ const Results = ({ results }) => {
     );
 };
 
+Results.displayName = "Results";
+
 export default Results;
